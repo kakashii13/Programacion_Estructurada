@@ -1,0 +1,10 @@
+Comienzo 
+    Ingresar "el nro de empleado"
+    Leer, emp
+    Ingresar "la cantidad de horas"
+    Leer, ch
+    Ingresar "el valor de la hora"
+    Leer vh
+    Sdo = ch * vh
+    Imprimir "el empleado, emp, cobra, sdo, pesos" 
+Fin
